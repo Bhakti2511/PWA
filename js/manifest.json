@@ -1,0 +1,31 @@
+{
+    "name": "My PWA",
+    "short_name": "PWA",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "A simple Progressive Web App example.",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+    {
+      "src": "img-mobile.png",
+      "sizes": "589x560",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Mobile Interface Layout"
+    },
+    {
+      "src": "img-desktop.png",
+      "sizes": "868x395",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Desktop Agent Workspace"
+    }
+  ]
+}
