@@ -7,21 +7,21 @@
     "description": "A simple Progressive Web App example.",
     "icons": [
         {
-            "src": "icon.png",
+            "src": "imgs/icon.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
     "screenshots": [
     {
-      "src": "img-mobile.png",
+      "src": "imgs/img-mobile.png",
       "sizes": "589x560",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Mobile Interface Layout"
     },
     {
-      "src": "img-desktop.png",
+      "src": "imgs/img-desktop.png",
       "sizes": "868x395",
       "type": "image/png",
       "form_factor": "wide",
